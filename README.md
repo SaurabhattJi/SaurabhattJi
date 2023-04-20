@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **MERN**
 
-- 👨‍💻 All of my projects are available at [https://saurabhatt-portfolio.netlify.app/](Portfolio of Saurabh Bhatt)
+- 👨‍💻 All of my projects are available at [Portfolio of Saurabh](https://saurabhatt-portfolio.netlify.app/)
 
 - 💬 Ask me about **React**
 
