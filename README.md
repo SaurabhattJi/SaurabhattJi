@@ -8,17 +8,17 @@
 
 - 🔭 I’m currently working on **Food App**
 
-- 🌱 I’m currently learning **Advanced React**
+- 🌱 I’m currently learning **Advanced React & Redux**
 
 - 👯 I’m looking to collaborate on **React JS**
 
-- 🤝 I’m looking for help with **MERN**
+- 🤝 I’m looking for help with **MERN Development**
 
 - 👨‍💻 All of my projects are available at [Portfolio of Saurabh](https://saurabhatt-portfolio.netlify.app/)
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **saurabh.bhatt141220@gmail.com**
+- 📫 Contact me **saurabh.bhatt141220@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
