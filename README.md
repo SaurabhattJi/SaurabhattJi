@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhattji" alt="saurabhattji" /></a> </p>
 
-- 🔭 I’m currently working on **Food App**
+- 🔭 I’m currently working on **Bee Recruiter**
 
 - 🌱 I’m currently learning **Advanced React & Redux**
 
