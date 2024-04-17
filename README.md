@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhattji" alt="saurabhattji" /></a> </p>
 
-- 🔭 I’m currently working on **Bee Recruiter**
+- 🔭 I’m currently working in **VAYUZ Teachnology**
 
-- 🌱 I’m currently learning **Advanced React & Redux**
+- 🌱 I’m currently learning **NEST**
 
-- 👯 I’m looking to collaborate on **React JS**
+- 👯 I’m looking to collaborate on **MERN STACK**
 
 - 🤝 I’m looking for help with **MERN Development**
 
 - 👨‍💻 All of my projects are available at [Portfolio of Saurabh](https://thesaurabhatt-portfolio.netlify.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **MERN**
 
 - 📫 Contact me **saurabh.bhatt141220@gmail.com**
 
