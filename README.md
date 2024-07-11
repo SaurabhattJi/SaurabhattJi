@@ -10,21 +10,21 @@
 
 - 🔭 I’m currently working on [RAPID](NIIT Admin panel)
 
-- 🌱 I’m currently learning **NEST, Svelte**
+- 🌱 I’m currently learning **NEST, Svelte, Docker, AWS**
 
 - 👯 I’m looking to collaborate on **NEST**
 
-- 🤝 I’m looking for help with **MERN Satcj**
+- 🤝 I’m looking for help with **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://thesaurabhatt-portfolio.netlify.app/](https://thesaurabhatt-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://insight.vayuz.com/author/saurabh-bhatt/dXNlcl9pZDE2ODU0MjYzMjY0NDA=](https://insight.vayuz.com/author/saurabh-bhatt/dXNlcl9pZDE2ODU0MjYzMjY0NDA=)
 
-- 💬 Ask me about **React, Node, MySQL,MongoDB**
+- 💬 Ask me about **React, Node, MySQL,MongoDB, Express**
 
 - 📫 How to reach me **saurabhbhattji2000@gmail.com**
 
-- ⚡ Fun fact **I am ex-Esports player**
+- ⚡ Fun fact **I am ex-Esports player for Avatar Esports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
