@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **NEST, Svelte, Docker, AWS**
 
-- 👯 I’m looking to collaborate on **NEST**
+- 👯 I’m looking to collaborate on **MERN**
 
 - 🤝 I’m looking for help with **MERN Stack**
 
