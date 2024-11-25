@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [RAPID](NIIT Admin panel)
 
-- 🌱 I’m currently learning **NEST, Svelte, Docker, AWS**
+- 🌱 I’m currently learning **NEST, Svelte, Docker, AWS, Advance React**
 
 - 👯 I’m looking to collaborate on **MERN**
 
