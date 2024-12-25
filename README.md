@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **saurabhbhattji2000@gmail.com**
 
-- ⚡ Fun fact **I am ex-Esports player for Avatar Esports**
+- ⚡ Fun fact **I am ex-Esports player for Avatar Esports and pahadi cook also 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
