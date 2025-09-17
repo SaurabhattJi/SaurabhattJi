@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://thesaurabhatt-portfolio.netlify.app/](https://thesaurabhatt-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://vs-code-portfolio-saurabh.vercel.app/)
 
 - 📝 I regularly write articles on [https://insight.vayuz.com/author/saurabh-bhatt/dXNlcl9pZDE2ODU0MjYzMjY0NDA=](https://insight.vayuz.com/author/saurabh-bhatt/dXNlcl9pZDE2ODU0MjYzMjY0NDA=)
 
